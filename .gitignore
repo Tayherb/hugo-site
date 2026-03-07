@@ -1,0 +1,13 @@
+# Hugo
+.hugo_build.lock
+resources/_gen/
+public/
+
+# VS Code
+.vscode/
+
+# Prettier
+.prettierrc
+
+# Windows Zone.Identifier (Alternate Data Streams)
+*:Zone.Identifier
