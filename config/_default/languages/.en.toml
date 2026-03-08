@@ -8,7 +8,7 @@ contentDir = "content/en"
 
 # BLOG MODE
 # Uncomment if you want to disable all posts and taxonomies rendering and indexing
-#ignoreFiles= 'posts/*'
+ignoreFiles= 'posts/*'
 
 # Change single params to false to remove from rendering
 [params]
